@@ -8,16 +8,16 @@ Clone this repo and cd into it, then cd into the vagrant folder inside the FSND-
 
 Then start up vagrant: 
 
-'''
+```
 vagrant up
 vagrant ssh
-'''
+```
 
 Then cd in the shared vagrant files and into the project folder containing the python files
 
-'''
+```
 cd /vagrant
 cd project
-'''
+```
 
 Finally run the desired python file. 
